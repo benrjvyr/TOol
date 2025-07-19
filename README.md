@@ -1,6 +1,6 @@
 #TOol 
 
-este es mi primer 'programa' con python y en general en el desarrollo
+este es mi primer 'programa' con python y en general en el desarrollo,
 Lo hice con menos de 1 mes de experiencia y un poco de ayuda con las librerias :)
 
 Que puedes hacer con el?
